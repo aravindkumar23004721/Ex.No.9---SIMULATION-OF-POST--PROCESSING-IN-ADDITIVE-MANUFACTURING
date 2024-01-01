@@ -46,7 +46,6 @@
 ![Screenshot 2023-12-19 225257](https://github.com/aravindkumar23004721/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/148962674/aeed7a13-1da3-4ec7-941c-d6c149a48c98)
 ![Screenshot 2023-12-19 225311](https://github.com/aravindkumar23004721/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/148962674/daf9d5cd-04a3-4f22-8199-8daa6acc8670)
 
-## Output:
 
 ### Name:Aravindkumar SS
 ### Register Number:23004721
